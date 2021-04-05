@@ -1,0 +1,16 @@
+{
+  "name": "tabNavigation-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expo": "^40.0.1",
+    "react": "^17.0.2"
+  }
+}
